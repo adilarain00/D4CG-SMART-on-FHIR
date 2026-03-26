@@ -4,19 +4,19 @@ A modern, patient-centric frontend designed to simplify how users connect to FHI
 
 A modern, patient-centric frontend designed to simplify how users connect to FHIR servers, fetch their medical records, and visualize complex clinical data. The dashboard transforms raw FHIR JSON into meaningful health insights, enabling patients to understand, control, and interact with their personal health information with clarity and confidence.
 
-![Architecture Diagram](src/data/architecture.png)
+![Architecture Diagram](src/data/thumbnail.png)
 
 <br />
 
 <p align="center">
 
   <!-- 🌍 Live Project -->
-  <a href="#" target="_blank">
+  <a href="https://d4-cg-smart-on-fhir.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌍 Live_Project-000000?style=for-the-badge&logo=&logoColor=white" />
   </a>
 
   <!-- 📂 GitHub Repo -->
-  <a href="#" target="_blank">
+  <a href="https://github.com/adilarain00/D4CG-SMART-on-FHIR" target="_blank">
     <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
